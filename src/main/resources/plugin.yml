@@ -1,0 +1,9 @@
+name: NoBuild
+version: '${project.version}'
+main: ru.kmwcode.nobuild.NoBuild
+api-version: 1.19
+authors: [ KotMilkMeoW ]
+
+depend:
+  - PlaceholderAPI
+  - LuckPerms
